@@ -16,7 +16,7 @@ This repository contains implementations of various computer vision applications
 ## Upcoming Projects
 - **Vision Transformers (ViTs) and Their Applications**
 - **Self-Supervised Learning for Vision Tasks**
-- **Multi-Modal Learning (Combining Vision and Language)**
+- **Multi-Modal Learning (Vision Language Models)**
 - **And More**
 
 <br><br>
