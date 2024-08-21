@@ -27,3 +27,14 @@ This repository contains implementations of various computer vision applications
 > - **Generative AI Models**: Image generation, data augmentation, image-to-image translation, style transfer, image super-resolution, and unsupervised feature learning
 > 
 > Please visit my other repository, [DLForVisualAI](https://github.com/hafizshakeel/DLForVisualAI).
+
+
+<br>
+
+## Contact 
+If you have any questions regarding the implementation, please feel free to reach out via email: [hafizshakeel1997@gmail.com](mailto:hafizshakeel1997@gmail.com)
+
+
+---
+
+Thank you for visiting my repository!
