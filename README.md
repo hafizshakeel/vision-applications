@@ -8,7 +8,7 @@ This repository contains implementations of various computer vision applications
 1. **Image Segmentation (UNet)**  
    PyTorch implementation of UNet for image segmentation.
 
-2. **Object Detection (YOLOv1)**  
+2. **Object Detection (YOLOv1 - YOLOv8)**  
    PyTorch implementation of YOLOv1 for real-time object detection.
 
 <br>
