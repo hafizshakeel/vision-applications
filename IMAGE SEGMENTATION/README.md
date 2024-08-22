@@ -1,7 +1,7 @@
 # PyTorch implementation of UNet
 
 
-This repository contains a PyTorch implementation of U-Net, a convolutional network designed for semantic segmentation of medical images and other image segmentation tasks.
+This is a PyTorch implementation of U-Net, a convolutional network designed for the semantic segmentation of medical images and other image segmentation tasks.
 
 ## Features
 
