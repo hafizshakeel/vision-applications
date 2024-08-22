@@ -1,8 +1,7 @@
 # Computer Vision Applications with PyTorch
 
-This repository contains implementations of various computer vision applications using PyTorch, including both established models and new research contributions.
-
-<br>
+This repository contains PyTorch implementations of various computer vision applications, including both released models and new research contributions.
+<br><br>
 
 ## Projects
 1. **Image Segmentation (UNet)**  
