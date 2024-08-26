@@ -30,7 +30,7 @@ This repository contains PyTorch implementations of various computer vision appl
 
 <br>
 
-## Credits
+## Acknowledgment & Credits
 [U-Net](https://arxiv.org/abs/1505.04597), [YOLOv1](https://arxiv.org/abs/1506.02640), [aladdinpersson](https://github.com/aladdinpersson/Machine-Learning-Collection)
 
 Thank you for visiting my repository!
