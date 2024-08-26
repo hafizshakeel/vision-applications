@@ -50,8 +50,4 @@ You can download the dataset from [Carvana Image Masking Challenge](https://www.
 ### Acknowledgements
 U-Net: Convolutional Networks for Biomedical Image Segmentation [Link](https://arxiv.org/abs/1505.04597)
 
----
-### Contact
-For any questions regarding the implementation or issues, please contact hafizshakeel1997@gmail.com.
-
 
