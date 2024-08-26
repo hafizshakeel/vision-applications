@@ -36,8 +36,3 @@ python train.py --train_data_path data/train_images/ --train_label_data_path dat
 
 ### Acknowledgements
 YOLOv1: You Only Look Once: Unified, Real-Time Object Detection [Link](https://arxiv.org/abs/1506.02640)
-
----
-### Contact
-For any questions regarding the implementation or issues, please contact hafizshakeel1997@gmail.com.
-
