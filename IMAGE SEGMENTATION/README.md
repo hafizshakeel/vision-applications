@@ -30,7 +30,7 @@ Edit `config.py` to set paths and hyperparameters. You can also pass configurati
 To start training the U-Net model, run the `train.py` script with the desired configuration:
 
 ```bash
-python train.py --train_data_path data/train_images/ --train_ori_data_path data/train_masks/ --val_data_path data/val_images/ --val_ori_data_path data/val_masks/ --test_data_path data/test_images/ --test_ori_data_path data/test_masks_images/ --batch_size 2 --epochs 100
+python unet_train.py --train_data_path data/train_images/ --train_ori_data_path data/train_masks/ --val_data_path data/val_images/ --val_ori_data_path data/val_masks/ --test_data_path data/test_images/ --test_ori_data_path data/test_masks_images/ --batch_size 2 --epochs 100
 ```
 
 
